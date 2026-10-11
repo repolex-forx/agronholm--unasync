@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/agronholm/unasync/commit/3d7a3695099f8e5772631025c0b32909527437fb",
       "git:hexsha": "3d7a3695099f8e5772631025c0b32909527437fb",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
